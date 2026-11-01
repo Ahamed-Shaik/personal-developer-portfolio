@@ -1,1 +1,1 @@
-# personal-developer-portfolio
+# Personal Developer Portfolio Website\n\nResponsive portfolio made with HTML and CSS.\n\n- `index.html`: page content\n- `style.css`: layout and styling\n\nBefore publishing, replace the sample email and LinkedIn URL in `index.html` with your own. Update skills only as you learn and practice them. Open `index.html` in a browser to preview.\n
